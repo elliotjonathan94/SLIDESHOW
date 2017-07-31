@@ -8,7 +8,7 @@
 Kayaking is a great way to see awesome places
 ![Alt text](https://upload.wikimedia.org/wikipedia/commons/5/53/Kayaking_in_Alaska_P1010034.JPG)
 <aside class="notes">
-Rivers, lakes, streams, and oceans are all viable places to launch and enjoy kayaking with good weather. I have personally kayaked in all three regions of the state of NC and have seen much of the natural beauty that the state has to offer, and I hope to expand my horizons further in the future.River
+Rivers, lakes, streams, and oceans are all viable places to launch and enjoy kayaking with good weather. I have personally kayaked in all three regions of the state of NC and have seen much of the natural beauty that the state has to offer, and I hope to expand my horizons further in the future.
 </aside>
 # Exercise
 Tired of all that monotonous running?
