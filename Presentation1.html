@@ -106,8 +106,12 @@ It is really hard to end up in a position like these kids. They must have made s
 				progress: true,
 				history: true,
 				center: true,
-
-				transition: 'none', // none/fade/slide/convex/concave/zoom
+				
+$if(transition)$
+				transition: '$transition$', // none/fade/slide/convex/concave/zoom
+$else$
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+$endif$
 				
 				// USE THESE SETTINGS FOR THE AUDIO AND AUTO-ADVANCE
 				//autoSlide: 5000,
